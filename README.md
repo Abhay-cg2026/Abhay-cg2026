@@ -1,48 +1,18 @@
-## Hello everyone 👋
-<h1 align="center">Hi 👋, I'm Abhay</h1>
+<h1 align="center">Hi 👋, I'm Abhay Singh</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <b>First-Year Web Development Student</b> • <b>Coding Gita Learner</b>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay-cg2026&label=Profile%20views&color=0e75b6&style=flat" alt="abhay-cg2026" /> </p>
+
+- 📫 How to reach me **abhay.m.singh.cg@gmail.com**
+
+- ⚡ Fun fact **I think i am a bit extrovert 😎**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abhay singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhay singh" height="30" width="40" /></a>
+<a href="https://instagram.com/btw_im.abhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw_im.abhay" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abhay_cg2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhay_cg2026" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  Passionate about building modern web experiences and continuously learning new technologies.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Web Development**
-- 🎨 Familiar with **Figma**
-- 💻 Exploring **HTML, CSS, JavaScript, and Git**
-- 📚 First-year student passionate about coding and design
-- 🎯 Goal: Become a Full-Stack Web Developer
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-cg2026&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-cg2026&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p>
-  <a href="https://github.com/Abhay-cg2026">GitHub</a> |
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/abhay-singh-a24a52422/">LinkedIn</a> |
-  <a href="mailto:abhay.m.singh.cg@gmail.com">Email</a>
-</p>
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
