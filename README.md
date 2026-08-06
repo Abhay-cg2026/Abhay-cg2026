@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhay-cg2026&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhay-cg2026&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> |
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> |
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="https://github.com/Abhay-cg2026">GitHub</a> |
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/abhay-singh-a24a52422/">LinkedIn</a> |
+  <a href="mailto:abhay.m.singh.cg@gmail.com">Email</a>
 </p>
 
