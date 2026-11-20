@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOP WAVE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Achal%20Kashyap&fontSize=52&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE-AI%20%7C%20First%20Year&descSize=18&descAlignY=60&descAlign=50&descColor=8b949e" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Abhay%20Singh&fontSize=52&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=BTech%20CSE-AI%20%7C%20First%20Year&descSize=18&descAlignY=60&descAlign=50&descColor=8b949e" />
 
 <!-- ANIMATED TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer;Python+Learner;AI+and+ML+Enthusiast;Robotics+Explorer;Problem+Solver;BTech+CSE-AI+Student" />
@@ -69,7 +69,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Achal-kashyap&background=0D1117&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B&stroke=30363D&border_radius=16&hide_border=false&date_format=j%20M%5B%20Y%5D&v=235"
+    src="https://streak-stats.demolab.com/?user=Abhay-Singh&background=0D1117&ring=A78BFA&fire=F472B6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B&stroke=30363D&border_radius=16&hide_border=false&date_format=j%20M%5B%20Y%5D&v=235"
     alt="GitHub Streak"
   />
 </p>
@@ -77,7 +77,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Achal-kashyap&theme=default&bg_color=0B0F19&title_color=FF4DCA&text_color=E6EDF3&border_color=7B2CBF&icon_color=00F5FF&chart_color=9D4EDD&animation=draw"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhay-Singh&theme=default&bg_color=0B0F19&title_color=FF4DCA&text_color=E6EDF3&border_color=7B2CBF&icon_color=00F5FF&chart_color=9D4EDD&animation=draw"
     width="100%"
     alt="GitHub Contribution Overview"
   />
@@ -123,7 +123,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 ## 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://achal-kashyap.github.io/Achal-kashyap/">
+  <a href="https://achal-kashyap.github.io/Abhay-Singh/">
     <img src="https://img.shields.io/badge/View_My_Contribution_Graph-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View My Contribution Graph">
   </a>
   &nbsp;
@@ -137,7 +137,7 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Achal-kashyap/Achal-kashyap/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Achal-kashyap/Abhay-Singh/output/github-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
@@ -150,10 +150,10 @@ Fun Fact    : I started with Robotics before writing my first "Hello World" 😄
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Achal--kashyap-181717?style=for-the-badge&logo=github&logoColor=white)]()&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-achal__kashayp__7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Achal%20Kashyap-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-Achal%20Kashyap-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Abhay-Singh-181717?style=for-the-badge&logo=github&logoColor=white)]()&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Abhay-Singh_7-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhay%20KSingh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-Abhay%20Singh-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()&nbsp;
 
 </div>
 
